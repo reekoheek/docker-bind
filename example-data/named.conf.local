@@ -1,0 +1,4 @@
+zone "foo.bar" {
+	type master;
+	file "/etc/bind/zones/db.foo.bar";
+};
